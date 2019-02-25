@@ -1,0 +1,1764 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-02-25T17:45:40.257-03:00
+  initializedAtString: 2019-02-25T17:38:54.359-03:00
+  log:
+  - commitID: c685688475c5a6016b8135f2d70ccacf098adb00
+    mergeA: 
+    mergeB: 
+    authorName: marcusjogos
+    authorEmail: 44457080+marcusjogos@users.noreply.github.com
+    commitEmail: 44457080+marcusjogos@users.noreply.github.com
+    commitName: marcusjogos
+    summary: no message
+    description: no message
+    timeString: 2019-02-25T17:26:53.000-03:00
+    commitTimeString: 2019-02-25T17:26:53.000-03:00
+    changes:
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Android\builds\unity-ads.aar.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\landscape.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\Editor\portrait.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSInAppPurchaseMetaData.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSJsonStorage.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMediationMetaData.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSMetaData.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UADSPlayerMetaData.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAds.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsExtended.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Headers\UnityAdsUnityDelegate.h.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Info.plist.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\Modules\module.modulemap.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\Resources\iOS\builds\UnityAds.framework\UnityAds.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\Editor\UnityEditor.Advertisements.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\License.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\License.md.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\License.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\README.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\README.md
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\README.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\README.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\README.md.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\README.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\UnityEngine.Advertisements.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\package.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.ads@2.0.8\package.json.meta
+      projectPath: Library\PackageCache\com.unity.ads@2.0.8\package.json.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.mdb
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android\Unity.Analytics.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\platforminfo.jar
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\platforminfo.jar
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android\platforminfo.jar
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\platforminfo.jar.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Android\platforminfo.jar.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Android\platforminfo.jar.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\CHANGELOG.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\CHANGELOG.md
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\CHANGELOG.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\CHANGELOG.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\CHANGELOG.md.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\CHANGELOG.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\analytics.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\analytics.md
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\analytics.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics0.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics0.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics0.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics1.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics1.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics1.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics10.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics10.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics10.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics11.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics11.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics11.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics12.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics12.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics12.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics13.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics13.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics13.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics14.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics14.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics14.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics2.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics2.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics2.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics3.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics3.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics3.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics4.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics4.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics4.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics5.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics5.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics5.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics6.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics6.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics6.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics7.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics7.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics7.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics8.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics8.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics8.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics9.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics9.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Documentation~\images\analytics9.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\AnalyticsEventTracker
+        icon.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\AnalyticsEventTracker
+        icon.png
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\AnalyticsEventTracker
+        icon.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\AnalyticsEventTracker
+        icon.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\AnalyticsEventTracker
+        icon.png.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\AnalyticsEventTracker
+        icon.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\PostGenerateGradleAndroidProject.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\PostGenerateGradleAndroidProject.cs
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\PostGenerateGradleAndroidProject.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\PostGenerateGradleAndroidProject.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\PostGenerateGradleAndroidProject.cs.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\PostGenerateGradleAndroidProject.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\Unity.Analytics.Android.Editor.asmdef
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\Unity.Analytics.Android.Editor.asmdef
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\Unity.Analytics.Android.Editor.asmdef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\Unity.Analytics.Android.Editor.asmdef.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\Unity.Analytics.Android.Editor.asmdef.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Editor\Android\Unity.Analytics.Android.Editor.asmdef.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\License.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\License.md
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\License.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\License.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\License.md.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\License.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\README.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\README.md
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\README.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\README.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\README.md.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\README.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.mdb
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Editor.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.mdb
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.StandardEvents.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.mdb
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\Unity.Analytics.Tracker.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.mdb
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS\Unity.Analytics.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\platforminfo.a
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\platforminfo.a
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS\platforminfo.a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\platforminfo.a.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\iOS\platforminfo.a.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\iOS\platforminfo.a.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\package.json
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\package.json
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\package.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\package.json.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.analytics@3.0.9\package.json.meta
+      projectPath: Library\PackageCache\com.unity.analytics@3.0.9\package.json.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\AssemblyInfo.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\AssemblyInfo.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\AssemblyInfo.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\AssemblyInfo.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\AssemblyInfo.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\AssemblyInfo.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Bootstrap.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Bootstrap.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Bootstrap.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Bootstrap.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Bootstrap.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Bootstrap.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabAnalytics.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabAnalytics.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabAnalytics.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabAnalytics.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabAnalytics.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabAnalytics.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabHistoryWindow.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabHistoryWindow.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabHistoryWindow.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabHistoryWindow.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabHistoryWindow.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabHistoryWindow.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarButton.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarButton.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarButton.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarButton.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarButton.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarButton.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarWindow.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarWindow.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarWindow.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarWindow.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarWindow.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\CollabToolbarWindow.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Presenters.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Presenters.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Presenters.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Editor\Collab\Presenters\CollabHistoryPresenter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\LICENSE.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\LICENSE.md
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\LICENSE.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\LICENSE.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\LICENSE.md.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\LICENSE.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\README.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\README.md
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\README.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\README.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\README.md.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\README.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\HistoryTests.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\HistoryTests.cs
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\HistoryTests.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\HistoryTests.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\HistoryTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\HistoryTests.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\Tests\Editor\Unity.CollabProxy.EditorTests.asmdef.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\package.json
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\package.json
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\package.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\package.json.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.collab-proxy@1.2.11\package.json.meta
+      projectPath: Library\PackageCache\com.unity.collab-proxy@1.2.11\package.json.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\CHANGELOG.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\CHANGELOG.md
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\CHANGELOG.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\CHANGELOG.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\CHANGELOG.md.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\CHANGELOG.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Documentation~\Images\PackageManagerUI-DocSite.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Documentation~\Images\PackageManagerUI-DocSite.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Documentation~\Images\PackageManagerUI-DocSite.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\download.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\download.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\download.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\error.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\error.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\error.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\error.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\error.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\error.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\loading.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\loading.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\loading.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\loading.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\loading.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Dark\loading.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\download.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\download.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\download.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\download.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\download.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\download.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\error.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\error.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\error.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\error.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\error.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\error.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\loading.png
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\loading.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\loading.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\loading.png.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\loading.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Images\Light\loading.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.scss
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.scss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.scss
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.scss.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.scss.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.scss.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.uss
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.uss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Editor\Resources\Styles\Main_Dark.uss
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\PackageSets.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\PackageSets.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\PackageSets.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\UITests.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\UITests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\UITests.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\UITests.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\UITests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Common\UITests.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockAddOperation.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockAddOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockAddOperation.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockListOperation.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockListOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockListOperation.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockOperation.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockOperation.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\MockOperationFactory.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\MockOperationFactory.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.2\Tests\Editor\Services\MockOperationFactory.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\License.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\License.md.meta
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\License.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\README.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\README.md
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\README.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\README.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\README.md.meta
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\README.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.mdb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.mdb
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.mdb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.mdb.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.mdb.meta
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.mdb.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.meta
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\UnityEngine.Purchasing.dll.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\package.json
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\package.json
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\package.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\package.json.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.purchasing@2.0.1\package.json.meta
+      projectPath: Library\PackageCache\com.unity.purchasing@2.0.1\package.json.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\.gitlab-ci.yml
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\.gitlab-ci.yml
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\.gitlab-ci.yml
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\CHANGELOG.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\CHANGELOG.md
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\CHANGELOG.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\CHANGELOG.md.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\CHANGELOG.md.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\CHANGELOG.md.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Documentation.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Documentation.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Documentation.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Documentation\TextMeshPro.md
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Documentation\TextMeshPro.md
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Documentation\TextMeshPro.md
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetEditor.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetEditor.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetEditor.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetEditor.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetImporter.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetImporter.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetImporter.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetImporter.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetImporter.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetImporter.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetMenu.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetMenu.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetMenu.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetMenu.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SpriteAssetMenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleAssetMenu.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleAssetMenu.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleAssetMenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleAssetMenu.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleAssetMenu.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleAssetMenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleSheetEditor.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleSheetEditor.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleSheetEditor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleSheetEditor.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleSheetEditor.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_StyleSheetEditor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMeshUI_Editor.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMeshUI_Editor.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMeshUI_Editor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMeshUI_Editor.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMeshUI_Editor.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMeshUI_Editor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMesh_Editor.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMesh_Editor.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMesh_Editor.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMesh_Editor.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMesh_Editor.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_SubMesh_Editor.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_UIStyleManager.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_UIStyleManager.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_UIStyleManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_UIStyleManager.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_UIStyleManager.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Editor\TMP_UIStyleManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_ColorGradient.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_ColorGradient.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_ColorGradient.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Compatibility.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Compatibility.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Compatibility.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Compatibility.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Compatibility.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Compatibility.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_CoroutineTween.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_CoroutineTween.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_CoroutineTween.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_CoroutineTween.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_CoroutineTween.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_CoroutineTween.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_DefaultControls.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_DefaultControls.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_DefaultControls.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_DefaultControls.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_DefaultControls.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_DefaultControls.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Dropdown.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Dropdown.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Dropdown.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Dropdown.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Dropdown.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_Dropdown.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_FontAsset.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_FontAsset.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_FontAsset.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_FontAsset.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_FontAsset.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_FontAsset.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputField.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputField.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputField.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputField.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputField.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputField.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputValidator.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputValidator.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputValidator.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputValidator.cs.meta
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputValidator.cs.meta
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_InputValidator.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_LineInfo.cs
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_LineInfo.cs
+      projectPath: Library\PackageCache\com.unity.textmeshpro@1.3.0\Scripts\Runtime\TMP_LineInfo.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\45\4506ac79f5b274cb1b249ed7f4abfb9a
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\45\4506ac79f5b274cb1b249ed7f4abfb9a
+      projectPath: Library\metadata\45\4506ac79f5b274cb1b249ed7f4abfb9a
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\45\4506ac79f5b274cb1b249ed7f4abfb9a.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\45\4506ac79f5b274cb1b249ed7f4abfb9a.info
+      projectPath: Library\metadata\45\4506ac79f5b274cb1b249ed7f4abfb9a.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      projectPath: Library\metadata\45\453f100e6bdae4dfd9e655927819dc85.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+      projectPath: Library\metadata\46\46098a81a64a45c5b756320e10a22f13
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\46\46098a81a64a45c5b756320e10a22f13.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\46\46098a81a64a45c5b756320e10a22f13.info
+      projectPath: Library\metadata\46\46098a81a64a45c5b756320e10a22f13.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+      projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585.info
+      projectPath: Library\metadata\46\46c02d8d6499b4309ac1ec5d0b818585.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\47\470530e667ad4475786b28fa3187ce95
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\47\470530e667ad4475786b28fa3187ce95
+      projectPath: Library\metadata\47\470530e667ad4475786b28fa3187ce95
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\47\470530e667ad4475786b28fa3187ce95.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\47\470530e667ad4475786b28fa3187ce95.info
+      projectPath: Library\metadata\47\470530e667ad4475786b28fa3187ce95.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      projectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      projectPath: Library\metadata\48\48986928cc2a449dbaecdd1654bc9bf6.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\48\48b10b41f58d5b49717f376cda59eeb8
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\48\48b10b41f58d5b49717f376cda59eeb8
+      projectPath: Library\metadata\48\48b10b41f58d5b49717f376cda59eeb8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\48\48b10b41f58d5b49717f376cda59eeb8.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\48\48b10b41f58d5b49717f376cda59eeb8.info
+      projectPath: Library\metadata\48\48b10b41f58d5b49717f376cda59eeb8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\48\48d034c499ee4697af9dd6e327110249
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\48\48d034c499ee4697af9dd6e327110249
+      projectPath: Library\metadata\48\48d034c499ee4697af9dd6e327110249
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\48\48d034c499ee4697af9dd6e327110249.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\48\48d034c499ee4697af9dd6e327110249.info
+      projectPath: Library\metadata\48\48d034c499ee4697af9dd6e327110249.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\72\7241c7dc25374fc1a6ab3ef9da79c363.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\72\7241c7dc25374fc1a6ab3ef9da79c363.info
+      projectPath: Library\metadata\72\7241c7dc25374fc1a6ab3ef9da79c363.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\75\75938f72739584ed9925bf4ae8989079
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\75\75938f72739584ed9925bf4ae8989079
+      projectPath: Library\metadata\75\75938f72739584ed9925bf4ae8989079
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\75\75938f72739584ed9925bf4ae8989079.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\75\75938f72739584ed9925bf4ae8989079.info
+      projectPath: Library\metadata\75\75938f72739584ed9925bf4ae8989079.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\76\76078ddafb924ce19edc6034201cb15b
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\76\76078ddafb924ce19edc6034201cb15b
+      projectPath: Library\metadata\76\76078ddafb924ce19edc6034201cb15b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\76\76078ddafb924ce19edc6034201cb15b.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\76\76078ddafb924ce19edc6034201cb15b.info
+      projectPath: Library\metadata\76\76078ddafb924ce19edc6034201cb15b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\76\760934a36e5f490db3c9fcaf497625a4
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\76\760934a36e5f490db3c9fcaf497625a4
+      projectPath: Library\metadata\76\760934a36e5f490db3c9fcaf497625a4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\76\760934a36e5f490db3c9fcaf497625a4.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\76\760934a36e5f490db3c9fcaf497625a4.info
+      projectPath: Library\metadata\76\760934a36e5f490db3c9fcaf497625a4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\77\77476292f9fa4905a787e6417853846b
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\77\77476292f9fa4905a787e6417853846b
+      projectPath: Library\metadata\77\77476292f9fa4905a787e6417853846b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\77\77476292f9fa4905a787e6417853846b.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\77\77476292f9fa4905a787e6417853846b.info
+      projectPath: Library\metadata\77\77476292f9fa4905a787e6417853846b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\78\782c49e6e68074dc7ba12c95537825ce
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\78\782c49e6e68074dc7ba12c95537825ce
+      projectPath: Library\metadata\78\782c49e6e68074dc7ba12c95537825ce
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\78\782c49e6e68074dc7ba12c95537825ce.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\78\782c49e6e68074dc7ba12c95537825ce.info
+      projectPath: Library\metadata\78\782c49e6e68074dc7ba12c95537825ce.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\78\782de34c17796430ba8d0ceddb60944e
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\78\782de34c17796430ba8d0ceddb60944e
+      projectPath: Library\metadata\78\782de34c17796430ba8d0ceddb60944e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\78\782de34c17796430ba8d0ceddb60944e.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\78\782de34c17796430ba8d0ceddb60944e.info
+      projectPath: Library\metadata\78\782de34c17796430ba8d0ceddb60944e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\78\78b9ad527fe44d7cb05bbb77fbf351c0
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\78\78b9ad527fe44d7cb05bbb77fbf351c0
+      projectPath: Library\metadata\78\78b9ad527fe44d7cb05bbb77fbf351c0
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\87\87738e82a4f047cc947cff8a2ccea594.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\87\87738e82a4f047cc947cff8a2ccea594.info
+      projectPath: Library\metadata\87\87738e82a4f047cc947cff8a2ccea594.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\87\87ab1bebe13f41f89d5427e7d2c34d58
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\87\87ab1bebe13f41f89d5427e7d2c34d58
+      projectPath: Library\metadata\87\87ab1bebe13f41f89d5427e7d2c34d58
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\87\87ab1bebe13f41f89d5427e7d2c34d58.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\87\87ab1bebe13f41f89d5427e7d2c34d58.info
+      projectPath: Library\metadata\87\87ab1bebe13f41f89d5427e7d2c34d58.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\87\87d720faa37005c08600090e04d8c739
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\87\87d720faa37005c08600090e04d8c739
+      projectPath: Library\metadata\87\87d720faa37005c08600090e04d8c739
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\87\87d720faa37005c08600090e04d8c739.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\87\87d720faa37005c08600090e04d8c739.info
+      projectPath: Library\metadata\87\87d720faa37005c08600090e04d8c739.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c
+      projectPath: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+      projectPath: Library\metadata\88\880f2fc52037c4fe09edb80cfe84ac7c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\882f1a4147a284f028899b9c018e63eb
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\882f1a4147a284f028899b9c018e63eb
+      projectPath: Library\metadata\88\882f1a4147a284f028899b9c018e63eb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\882f1a4147a284f028899b9c018e63eb.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\882f1a4147a284f028899b9c018e63eb.info
+      projectPath: Library\metadata\88\882f1a4147a284f028899b9c018e63eb.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+      projectPath: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1.info
+      projectPath: Library\metadata\88\884f8f0e4025a420893d3a8d1d3063e1.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\88ed537c17c34f339121fe9a7d6d7a0e
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\88ed537c17c34f339121fe9a7d6d7a0e
+      projectPath: Library\metadata\88\88ed537c17c34f339121fe9a7d6d7a0e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\88\88ed537c17c34f339121fe9a7d6d7a0e.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\88\88ed537c17c34f339121fe9a7d6d7a0e.info
+      projectPath: Library\metadata\88\88ed537c17c34f339121fe9a7d6d7a0e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\8a\8a9a760f95896c34689febc965510927
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\8a\8a9a760f95896c34689febc965510927
+      projectPath: Library\metadata\8a\8a9a760f95896c34689febc965510927
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c4\c4c1445ee948a4124bfa9fb818a17e36
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c4\c4c1445ee948a4124bfa9fb818a17e36
+      projectPath: Library\metadata\c4\c4c1445ee948a4124bfa9fb818a17e36
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c4\c4c1445ee948a4124bfa9fb818a17e36.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c4\c4c1445ee948a4124bfa9fb818a17e36.info
+      projectPath: Library\metadata\c4\c4c1445ee948a4124bfa9fb818a17e36.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c4\c4df1124e2787ee0c8d1a911de17ee73
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c4\c4df1124e2787ee0c8d1a911de17ee73
+      projectPath: Library\metadata\c4\c4df1124e2787ee0c8d1a911de17ee73
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c4\c4df1124e2787ee0c8d1a911de17ee73.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c4\c4df1124e2787ee0c8d1a911de17ee73.info
+      projectPath: Library\metadata\c4\c4df1124e2787ee0c8d1a911de17ee73.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c5\c522a644a29fcab2eaf63298c118a65b
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c5\c522a644a29fcab2eaf63298c118a65b
+      projectPath: Library\metadata\c5\c522a644a29fcab2eaf63298c118a65b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c5\c522a644a29fcab2eaf63298c118a65b.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c5\c522a644a29fcab2eaf63298c118a65b.info
+      projectPath: Library\metadata\c5\c522a644a29fcab2eaf63298c118a65b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c5\c55a64c7570474f47a94abe39ebfef04
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c5\c55a64c7570474f47a94abe39ebfef04
+      projectPath: Library\metadata\c5\c55a64c7570474f47a94abe39ebfef04
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c5\c55a64c7570474f47a94abe39ebfef04.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c5\c55a64c7570474f47a94abe39ebfef04.info
+      projectPath: Library\metadata\c5\c55a64c7570474f47a94abe39ebfef04.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      projectPath: Library\metadata\c5\c5ba7626a737840ff88a3bd84b100482.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8
+      projectPath: Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8.info
+      projectPath: Library\metadata\c6\c68ba5b432ef64e67ae0bf74960908a8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c7\c754112a02f354a6696fa4f2b99e95a5
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c7\c754112a02f354a6696fa4f2b99e95a5
+      projectPath: Library\metadata\c7\c754112a02f354a6696fa4f2b99e95a5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c7\c754112a02f354a6696fa4f2b99e95a5.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c7\c754112a02f354a6696fa4f2b99e95a5.info
+      projectPath: Library\metadata\c7\c754112a02f354a6696fa4f2b99e95a5.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+      projectPath: Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Projeto_teste\New Unity Project\Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5.info
+      fullPath: E:\Teste_GIT\github-demo\Projeto_teste\New Unity Project\Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5.info
+      projectPath: Library\metadata\c7\c7559cdbc33f04af1a5a42d2aa5b40a5.info
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 197184a36e68d729accba037ddd306ef879d53c9
+    mergeA: 
+    mergeB: 
+    authorName: marcusjogos
+    authorEmail: 44457080+marcusjogos@users.noreply.github.com
+    commitEmail: 44457080+marcusjogos@users.noreply.github.com
+    commitName: marcusjogos
+    summary: no message
+    description: no message
+    timeString: 2019-02-25T17:18:02.000-03:00
+    commitTimeString: 2019-02-25T17:18:02.000-03:00
+    changes:
+    - path: Novo Documento de Texto.txt
+      fullPath: E:\Teste_GIT\github-demo\Novo Documento de Texto.txt
+      projectPath: ..\..\Novo Documento de Texto.txt
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 263bb8fb322b2904e11664f56d1b234116eba18e
+    mergeA: 
+    mergeB: 
+    authorName: marcusjogos
+    authorEmail: 44457080+marcusjogos@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: Initial commit
+    timeString: 2019-02-25T13:32:17.000-03:00
+    commitTimeString: 2019-02-25T13:32:17.000-03:00
+    changes:
+    - path: README.md
+      fullPath: E:\Teste_GIT\github-demo\README.md
+      projectPath: ..\..\README.md
+      originalPath: 
+      status: 4
+      staged: 0
